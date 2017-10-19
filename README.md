@@ -1,1 +1,1 @@
-For this mini-project, I decontructed Google's homepage and rebuilt it. If you look closely, you will see that I did not a built a functioning replicate. However, it could easily be accomplished with additionally coding.
+For this mini-project, I decontructed Google's homepage and rebuilt it. If you look closely, you will see that I did not built a functioning replicate. However, it can easily be accomplished with additionally coding.
